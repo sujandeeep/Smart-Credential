@@ -1,4 +1,9 @@
+# Smart Credential 🔐
+### Blockchain-Based Academic Verification System
 
+> A tamper-proof, fully offline platform for issuing and verifying academic certificates — powered by SHA-256 cryptographic hashing and a local blockchain ledger.
+
+---
 
 ## Table of Contents
 
